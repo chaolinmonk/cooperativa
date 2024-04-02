@@ -1,0 +1,23 @@
+{
+  "name": "cooperativa",
+  "version": "1.0.0",
+  "description": "minguis",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(\"chat esto es real?\")"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaolinmonk/cooperativa.git"
+  },
+  "keywords": [
+    "hola",
+    "mundox"
+  ],
+  "author": "diego quioza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chaolinmonk/cooperativa/issues"
+  },
+  "homepage": "https://github.com/chaolinmonk/cooperativa#readme"
+}
